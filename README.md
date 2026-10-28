@@ -1,78 +1,29 @@
-<p align="center">
-  <img src="./assets/profile-header.svg" width="100%" alt="Ümit Ceylan — Veriden içgörüye. Fikirden faydaya." />
+<p>
+  <img src="./assets/profile-header.svg" width="100%" alt="Ümit Ceylan | Business Analysis, Data Analytics and Process Improvement" />
 </p>
 
-### Merhaba, ben Ümit 👋
+## Profile
 
-Veriyi anlamlandırmayı, bir işin nasıl yürüdüğünü çözmeyi ve daha pratik yollar bulmayı seviyorum. **İş analizi, veri ve raporlama, operasyon ve süreç geliştirme** alanlarına odaklanıyorum.
+Information Systems and Technologies graduate focused on **business analysis, data analytics, reporting and process improvement**. My internship experience includes product operations, market and competitor research, pricing comparisons and SQL-based data workflows.
 
-Bilişim Sistemleri ve Teknolojileri mezunuyum. Stajlarımda **Excel, SQL ve SAP** ile çalıştım; ürün, stok ve fiyat verileriyle uğraştım. Yapay zekâ ve otomasyonun günlük işlerde neleri kolaylaştırabileceğini merak ediyorum. GitHub ise öğrenirken denediğim fikirleri ve projeleri bir araya getirdiğim alanım.
+I have worked with **Excel, SQL and SAP** to organize product, inventory and pricing information. I am interested in applying AI and automation to improve operational workflows and support informed decisions.
 
-<br/>
+## Selected Projects
 
-### 🧭 Şu sıralar odağım
+| Project | Scope | Technologies |
+| --- | --- | --- |
+| **[Banknote Authentication](https://github.com/ceylanumit/banknote-authentication)** | Classification and evaluation of machine learning models using numerical banknote features. | Python, Pandas, Scikit-learn, TensorFlow |
+| **[PC Components E-Commerce](https://github.com/ceylanumit/pc-components-ecommerce)** | Product, category, cart and order management with separate customer and administrator workflows. | ASP.NET MVC, Entity Framework, SQL Server |
+| **[Peri Chatbot](https://github.com/ceylanumit/peri-chatbot)** | Turkish text processing and similarity-based response retrieval. | Python, NLTK, Scikit-learn |
+| **[Qedev Linux](https://github.com/ceylanumit/qedev-linux)** | Arch Linux distribution configuration with an LXQt desktop and a graphical installer. | Linux, Python, PySide6, Shell |
 
-**Veri → anlamlı çıktı** &nbsp; · &nbsp; **Süreç → daha az tekrar** &nbsp; · &nbsp; **Teknoloji → pratik fayda**
+## Skills and Interests
 
-<br/>
+**Business and data tools**  
+Excel · SQL · SAP
 
-### 🗂 Seçilmiş çalışmalar
+**Project technologies**  
+Python · C# / ASP.NET MVC · Git · Linux
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-#### 01 / Veri & makine öğrenmesi
-**[Banknote Authentication](https://github.com/ceylanumit/banknote-authentication)**
-
-Banknot verileri üzerinde sınıflandırma ve model değerlendirme çalışması.
-
-<sub>Python · Pandas · Scikit-learn · TensorFlow</sub>
-
-</td>
-<td width="50%" valign="top">
-
-#### 02 / E-ticaret & iş akışları
-**[PC Components E-Commerce](https://github.com/ceylanumit/pc-components-ecommerce)**
-
-Ürün, kategori, sepet ve sipariş yönetimini bir araya getiren e-ticaret uygulaması.
-
-<sub>ASP.NET MVC · Entity Framework · SQL Server</sub>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-#### 03 / Türkçe metin işleme
-**[PeriChatbot](https://github.com/ceylanumit/kafeperiBot)**
-
-Türkçe metinleri işleyerek benzerlik hesaplamalarıyla yanıt üreten sohbet botu.
-
-<sub>Python · NLTK · Scikit-learn</sub>
-
-</td>
-<td width="50%" valign="top">
-
-#### 04 / Sistemler & keşif
-**[Qedev Linux](https://github.com/ceylanumit/qedev-linux)**
-
-LXQt masaüstü ve grafik kurulum aracı içeren Arch Linux tabanlı dağıtım çalışması.
-
-<sub>Linux · Python · PySide6 · Shell</sub>
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-### 🧰 Araç çantam
-
-**İş ve veri:** `Excel` `SQL` `SAP`  
-**Projelerde kullandıklarım:** `Python` `C# / ASP.NET MVC` `Git` `Linux`  
-**Takip ettiklerim:** Yapay zekâ araçları, otomasyon ve süreç iyileştirme
-
----
-
-<p align="center"><sub>Merak et. Anlamlandır. İyileştir.</sub></p>
+**Professional interests**  
+Business analysis · Data analytics and reporting · Operations · Process improvement · AI and automation
