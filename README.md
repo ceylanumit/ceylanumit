@@ -1,29 +1,35 @@
-<p>
-  <img src="./assets/profile-header.svg" width="100%" alt="Ümit Ceylan | Business Analysis, Data Analytics and Process Improvement" />
-</p>
+<p><sub>CEYLANUMIT / KİŞİSEL ALAN</sub></p>
 
-## Profile
+Merhaba, ben Ümit.
+Linux, yapay zekâ ve web ile uğraşıyorum. Burada kendi kurcaladığım sistemler, küçük denemeler ve biraz daha büyüyen projeler var.
 
-Information Systems and Technologies graduate focused on **business analysis, data analytics, reporting and process improvement**. My internship experience includes product operations, market and competitor research, pricing comparisons and SQL-based data workflows.
+Masanın üstündekiler
+<table>
+<tr>
+<td width="50%" valign="top">
+<sub>01 / SİSTEM</sub>
+<h3><a href="https://github.com/ceylanumit/qedev-linux">Qedev Linux ↗</a></h3>
+<p>Arch tabanı, LXQt masaüstü ve grafik kurulum aracı. Bir Linux dağıtımını bir araya getirme denemem.</p>
+</td>
+<td width="50%" valign="top">
+<sub>02 / DİL</sub>
+<h3><a href="https://github.com/ceylanumit/peri-chatbot">PeriChatbot ↗</a></h3>
+<p>Türkçe metinleri işleyen, benzerlikler üzerinden yanıt bulan bir sohbet botu.</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<sub>03 / VERİ</sub>
+<h3><a href="https://github.com/ceylanumit/banknote-authentication">Banknote Authentication ↗</a></h3>
+<p>Banknot verileriyle sınıflandırma. Farklı modellerin aynı veride nasıl sonuç verdiğine baktığım çalışma.</p>
+</td>
+<td width="50%" valign="top">
+<sub>04 / WEB</sub>
+<h3><a href="https://github.com/ceylanumit/pc-components-ecommerce">PC Components ↗</a></h3>
+<p>Bilgisayar parçaları için bir e-ticaret uygulaması. Ürünlerden sepete, sepetten siparişe.</p>
+</td>
+</tr>
+</table>
 
-I have worked with **Excel, SQL and SAP** to organize product, inventory and pricing information. I am interested in applying AI and automation to improve operational workflows and support informed decisions.
 
-## Selected Projects
-
-| Project | Scope | Technologies |
-| --- | --- | --- |
-| **[Banknote Authentication](https://github.com/ceylanumit/banknote-authentication)** | Classification and evaluation of machine learning models using numerical banknote features. | Python, Pandas, Scikit-learn, TensorFlow |
-| **[PC Components E-Commerce](https://github.com/ceylanumit/pc-components-ecommerce)** | Product, category, cart and order management with separate customer and administrator workflows. | ASP.NET MVC, Entity Framework, SQL Server |
-| **[Peri Chatbot](https://github.com/ceylanumit/peri-chatbot)** | Turkish text processing and similarity-based response retrieval. | Python, NLTK, Scikit-learn |
-| **[Qedev Linux](https://github.com/ceylanumit/qedev-linux)** | Arch Linux distribution configuration with an LXQt desktop and a graphical installer. | Linux, Python, PySide6, Shell |
-
-## Skills and Interests
-
-**Business and data tools**  
-Excel · SQL · SAP
-
-**Project technologies**  
-Python · C# / ASP.NET MVC · Git · Linux
-
-**Professional interests**  
-Business analysis · Data analytics and reporting · Operations · Process improvement · AI and automation
+Diğer depolar ↗
