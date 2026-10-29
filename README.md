@@ -1,35 +1,18 @@
-<p><sub>CEYLANUMIT / KİŞİSEL ALAN</sub></p>
+# Umit Ceylan
 
-Merhaba, ben Ümit.
-Linux, yapay zekâ ve web ile uğraşıyorum. Burada kendi kurcaladığım sistemler, küçük denemeler ve biraz daha büyüyen projeler var.
+Information Systems & Technologies graduate from Atatürk University. I work on personal projects in Linux, application development and data analysis.
 
-Masanın üstündekiler
-<table>
-<tr>
-<td width="50%" valign="top">
-<sub>01 / SİSTEM</sub>
-<h3><a href="https://github.com/ceylanumit/qedev-linux">Qedev Linux ↗</a></h3>
-<p>Arch tabanı, LXQt masaüstü ve grafik kurulum aracı. Bir Linux dağıtımını bir araya getirme denemem.</p>
-</td>
-<td width="50%" valign="top">
-<sub>02 / DİL</sub>
-<h3><a href="https://github.com/ceylanumit/peri-chatbot">PeriChatbot ↗</a></h3>
-<p>Türkçe metinleri işleyen, benzerlikler üzerinden yanıt bulan bir sohbet botu.</p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<sub>03 / VERİ</sub>
-<h3><a href="https://github.com/ceylanumit/banknote-authentication">Banknote Authentication ↗</a></h3>
-<p>Banknot verileriyle sınıflandırma. Farklı modellerin aynı veride nasıl sonuç verdiğine baktığım çalışma.</p>
-</td>
-<td width="50%" valign="top">
-<sub>04 / WEB</sub>
-<h3><a href="https://github.com/ceylanumit/pc-components-ecommerce">PC Components ↗</a></h3>
-<p>Bilgisayar parçaları için bir e-ticaret uygulaması. Ürünlerden sepete, sepetten siparişe.</p>
-</td>
-</tr>
-</table>
+## Selected projects
 
+- **[Qedev Linux](https://github.com/ceylanumit/qedev-linux)** — A Debian-based desktop distribution with LXQt, custom system tools and an installable live image.
+- **[PC Components E-Commerce](https://github.com/ceylanumit/pc-components-ecommerce)** — An ASP.NET MVC application with SQL Server, product management, a shopping cart and order workflows.
+- **[Peri Chatbot](https://github.com/ceylanumit/peri-chatbot)** — A Turkish-language chatbot that retrieves predefined responses using TF-IDF and cosine similarity.
+- **[Banknote Authentication](https://github.com/ceylanumit/banknote-authentication)** — A machine learning study using the UCI banknote dataset. The repository contains the project report.
 
-Diğer depolar ↗
+I also developed **Caminta**, an Android walking and activity-tracking app published on Google Play.
+
+## Background
+
+My internships covered web development and product operations, including SQL databases, SAP ERP and Excel reporting. I am currently looking for an entry-level opportunity in IT.
+
+[LinkedIn](https://www.linkedin.com/in/umitceylan-/) · [All repositories](https://github.com/ceylanumit?tab=repositories)
