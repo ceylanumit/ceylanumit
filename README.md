@@ -1,6 +1,6 @@
 # Umit Ceylan
 
-Information Systems & Technologies graduate from Atatürk University. I work on personal projects in Linux, application development and data analysis.
+I work on personal projects in Linux, application development and data analysis.
 
 ## Selected projects
 
@@ -11,8 +11,4 @@ Information Systems & Technologies graduate from Atatürk University. I work on 
 
 I also developed **Caminta**, an Android walking and activity-tracking app published on Google Play.
 
-## Background
-
-My internships covered web development and product operations, including SQL databases, SAP ERP and Excel reporting. I am currently looking for an entry-level opportunity in IT.
-
-[LinkedIn](https://www.linkedin.com/in/umitceylan-/) · [All repositories](https://github.com/ceylanumit?tab=repositories)
+[All repositories](https://github.com/ceylanumit?tab=repositories)
