@@ -1,7 +1,3 @@
-# Umit Ceylan
-
-I work on personal projects in Linux, application development and data analysis.
-
 ## Selected projects
 
 - **[Qedev Linux](https://github.com/ceylanumit/qedev-linux)** — A Debian-based desktop distribution with LXQt, custom system tools and an installable live image.
